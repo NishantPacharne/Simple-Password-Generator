@@ -7,6 +7,8 @@ since I used lowercase and uppercase alphabets ,digits and special characters th
 
 This program will get length of the password as input from the user If you want to Use a Random length uncomment the input line.
 
+Code Of The Password Generator:
+
 import random,string
 
 #creating a empty string 
